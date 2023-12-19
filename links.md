@@ -184,3 +184,13 @@
   - `http://sz5h6tiqkdkfl55qa3kcxgzck3xeffo6cso7sjpc7hc7sr3vghdyicqd.onion/`
 
 ---
+
+### Red Room:
+
+- [New Link](http://redroomvovfxn5qd2yavwdhwb375cuoiqhhl24dkt73xma2zsdjiyyid.onion/)
+  - `http://redroomvovfxn5qd2yavwdhwb375cuoiqhhl24dkt73xma2zsdjiyyid.onion/`
+
+- [Old Link](http://redroomfing27toi.onion) (Closed)
+  - `http://redroomfing27toi.onion`
+
+---

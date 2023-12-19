@@ -5,7 +5,7 @@ Besides Tor, there are several other solutions that provide access to the deep w
 
 | Type      | Features                                                                                                                                         |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**`Tor`**](https://www.torproject.org)       | The most popular network, provides anonymity and access to .onion sites.                                     |
+| [**`Tor`**](https://www.torproject.org)       | The most popular network, provides anonymity and access to `.onion` sites.                                     |
 | [**`I2P`**](https://geti2p.net/en/)           | Known for secure and anonymous communication.                                                                |
 | [**`Freenet`**](https://www.hyphanet.org/)    | Designed for censorship-resistant publishing and communication.                                              |
 | [**`Zeronet`**](https://zeronet.io/)          | A decentralized web platform that uses Bitcoin cryptography and the BitTorrent network.                      |
