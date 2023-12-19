@@ -1,3 +1,10 @@
+### TOR SCAM LIST:
+
+- [New Link](http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion/)
+  - `http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion/`
+
+---
+
 ### Facebook onion:
 
 - [New Link](https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/reg/)
