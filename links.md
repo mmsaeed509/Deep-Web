@@ -210,3 +210,18 @@ ___
   - `http://redroomfing27toi.onion`
 
 ---
+
+### Leaks and vulnerabilities sites:
+
+- [Link](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)
+  - `http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion`
+
+- [Link](http://darknewqhjrjdoru2pos7nw7qvskhfk343l434bjtj5z6nqy4sck3bid.onion)
+  - `http://darknewqhjrjdoru2pos7nw7qvskhfk343l434bjtj5z6nqy4sck3bid.onion`
+ 
+ - [Link](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion)
+  - `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion`
+
+- [Link](http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion)
+  - `http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion`
+ 
